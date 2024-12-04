@@ -1,3 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600;700&family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
+
+:root {
+  --sub: 20px;
+
+  --font-2: "Work Sans", sans-serif;
+}
 .sectionOne {
   margin-top: 25px;
   margin-bottom: 30px;
@@ -18,6 +26,11 @@
 .sectionOne__content--text {
   font-size: var(--sub);
   font-family: var(--font-2);
+}
+
+.responsive-image {
+  max-width: 100%;
+  height: auto;
 }
 
 @media (max-width: 568px) {

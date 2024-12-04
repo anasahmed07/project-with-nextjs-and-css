@@ -157,6 +157,7 @@
   justify-content: space-between;
   padding-top: 30px;
   padding-bottom: 30px;
+  background-color: var(--color-green-100);
 }
 
 .navbar__logo {

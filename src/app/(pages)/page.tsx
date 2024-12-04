@@ -5,7 +5,6 @@ export default function HomePage() {
     return (
         <>
             <div className="hero">
-
                 <div className="sectionOne container grid">
                     <div className="sectionOne__left flex">
                         <div className="sectionOne__left--label label text-white">

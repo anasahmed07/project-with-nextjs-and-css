@@ -1,7 +1,9 @@
 import "@/styles/services.css";
 
+
 export default function ServicesPage() {
   return (
+    <>
     <div className="sectionOne">
       <div className="sectionOne__content text-center flex">
         <div className="sectionOne__content--label label text-green">
@@ -120,5 +122,6 @@ export default function ServicesPage() {
         </div>
       </div>
     </div>
+    </>
   );
 }
