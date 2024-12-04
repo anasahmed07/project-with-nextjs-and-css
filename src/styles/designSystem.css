@@ -104,6 +104,10 @@
   max-width: 100%;
   height: auto;
 }
+.responsive-image-2 {
+  width: auto;
+  max-height: 100%;
+}
 
 /**
 * ! Common style rules

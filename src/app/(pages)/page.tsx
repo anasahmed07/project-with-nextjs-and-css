@@ -1,5 +1,6 @@
 import "@/styles/homepage.css";
 import Image from "next/image";
+import "@/styles/designSystem.css"
 
 export default function HomePage() {
     return (
@@ -25,7 +26,7 @@ export default function HomePage() {
                         className="sectionOne__right responsive-image"
                         src="/images/Home/image-1.svg"
                         alt=""
-                        height={100} width={100}
+                        height={1000} width={1000}
                     />
                 </div>
             </div>
@@ -47,32 +48,32 @@ export default function HomePage() {
                     <Image
                         src="/images/Companies/Google.svg"
                         alt=""
-                        height={100} width={100}
-                        className="sectionTwo__logo--1 responsive-image"
+                        height={50} width={100}
+                        className="sectionTwo__logo--1 responsive-image-2"
                     />
                     <Image
                         src="/images/Companies/Microsoft.svg"
                         alt=""
-                        height={100} width={100}
-                        className="sectionTwo__logo--2 responsive-image"
+                        height={46} width={100}
+                        className="sectionTwo__logo--2 responsive-image-2"
                     />
                     <Image
                         src="/images/Companies/Airbnb.svg"
                         alt=""
-                        height={100} width={100}
-                        className="sectionTwo__logo--3 responsive-image"
+                        height={50} width={100}
+                        className="sectionTwo__logo--3 responsive-image-2"
                     />
                     <Image
                         src="/images/Companies/Facebook.svg"
                         alt=""
-                        height={100} width={100}
-                        className="sectionTwo__logo--4 responsive-image"
+                        height={38} width={100}
+                        className="sectionTwo__logo--4 responsive-image-2"
                     />
                     <Image
                         src="/images/Companies/Spotify.svg"
                         alt=""
-                        height={100} width={100}
-                        className="sectionTwo__logo--5 responsive-image"
+                        height={50} width={100}
+                        className="sectionTwo__logo--5 responsive-image-2"
                     />
                 </div>
                 <button className="sectionTwo__btn dark-btn">Learn More</button>
@@ -83,7 +84,7 @@ export default function HomePage() {
                     className="sectionThree__left responsive-image"
                     src="/images/Home/image-2.svg"
                     alt=""
-                    height={100} width={100}
+                    height={100} width={1000}
                 />
                 <div className="sectionThree__right flex">
                     <div className="sectionThree__right--title common-title">
@@ -114,7 +115,7 @@ export default function HomePage() {
                 <Image
                     src="/images/Home/image-3.svg"
                     alt=""
-                    height={100} width={100}
+                    height={100} width={1000}
                     className="sectionFour__right responsive-image"
                 />
             </div>
@@ -138,7 +139,7 @@ export default function HomePage() {
                             className="responsive-image"
                             src="/images/team/Peg_Legge.svg"
                             alt=""
-                            height={100} width={100}
+                            height={100} width={1000}
                         />
                         <div className="name">Peg Legge</div>
                         <div className="position">CEO</div>
@@ -148,7 +149,7 @@ export default function HomePage() {
                             className="responsive-image"
                             src="/images/team/Richard.svg"
                             alt=""
-                            height={100} width={100}
+                            height={100} width={1000}
                         />
                         <div className="name">Richard Guerra</div>
                         <div className="position">CTO</div>
@@ -158,7 +159,7 @@ export default function HomePage() {
                             className="responsive-image"
                             src="/images/team/Alexandra.svg"
                             alt=""
-                            height={100} width={100}
+                            height={100} width={1000}
                         />
                         <div className="name">Alexandra Stolz</div>
                         <div className="position">Designer</div>
@@ -168,7 +169,7 @@ export default function HomePage() {
                             className="responsive-image"
                             src="/images/team/Janet.svg"
                             alt=""
-                            height={100} width={100}
+                            height={100} width={1000}
                         />
                         <div className="name">Janet Bray</div>
                         <div className="position">developer</div>
