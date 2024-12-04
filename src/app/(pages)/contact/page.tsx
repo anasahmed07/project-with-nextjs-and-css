@@ -22,7 +22,7 @@ export default function HomePage() {
                         <button type="submit" className="submit-btn dark-btn">Submit</button>
                     </form>
                 </div>
-                <Image src="/images/Contact/map.svg" alt="" className="sectionTwo__right responsive-image" height={400} width={400}/>
+                <Image src="/images/Contact/map.svg" alt="" className="sectionTwo__right responsive-image" height={400} width={500}/>
             </div>
         </>
     );
