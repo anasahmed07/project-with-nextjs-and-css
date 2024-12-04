@@ -37,6 +37,11 @@
   * ! style rules for sectionOne
   **/
   
+.sectionOne{
+  height: 80vh
+}
+
+
 .sectionOne__left--text {
   font-size: var(--body);
   font-family: var(--font-2);
