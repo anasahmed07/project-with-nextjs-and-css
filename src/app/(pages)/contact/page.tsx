@@ -5,8 +5,8 @@ export default function HomePage() {
     return (
         <>
             <div className="sectionOne container text-center">
-                <div className="common-title">Contact Us</div>
-                <div className="text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos, odio.</div>
+                <div className="common-title">Get in Touch</div>
+                <div className="text">Have a project in mind? We'd love to hear from you. Send us a message and we'll respond as soon as possible.</div>
             </div>
             <div className="sectionTwo container grid">
                 <div className="sectionTwo__left">

@@ -10,11 +10,10 @@ export default function ServicesPage() {
           Services
         </div>
         <div className="sectionOne__content--title common-title">
-          Lorem ipsum dolor sit amet consectetur.
+          Choose the Perfect Plan for Your Business
         </div>
         <div className="sectionOne__content--text">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae,
-          porro?
+          Flexible service packages designed to meet your business needs and scale with your growth
         </div>
       </div>
       <div className="sectionOne__cards container">
@@ -25,29 +24,28 @@ export default function ServicesPage() {
             <div className="time">/month</div>
           </div>
           <div className="info">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda
-            possimus asperiores eos distinctio.
+            Perfect for small businesses and startups looking to establish their digital presence with essential features and support.
           </div>
           <div className="features">
             <div className="list">
               <i className="bi bi-check-lg"></i>
-              <span>Lorem ipsum dolor sit.</span>
+              <span>Website Development & Hosting</span>
             </div>
             <div className="list">
               <i className="bi bi-check-lg"></i>
-              <span>Lorem ipsum dolor sit.</span>
+              <span>Basic SEO Optimization</span>
             </div>
             <div className="list">
               <i className="bi bi-check-lg"></i>
-              <span>Lorem ipsum dolor sit.</span>
+              <span>Email Support</span>
             </div>
             <div className="list">
               <i className="bi bi-check-lg"></i>
-              <span>Lorem ipsum dolor sit.</span>
+              <span>Monthly Performance Reports</span>
             </div>
             <div className="list">
               <i className="bi bi-check-lg"></i>
-              <span>Lorem ipsum dolor sit.</span>
+              <span>Security Monitoring</span>
             </div>
           </div>
           <button className="dark-btn">Learn More</button>
@@ -59,29 +57,28 @@ export default function ServicesPage() {
             <div className="time">/month</div>
           </div>
           <div className="info">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda
-            possimus asperiores eos distinctio.
+            Ideal for growing businesses requiring advanced features and dedicated support for their digital operations.
           </div>
           <div className="features">
             <div className="list">
               <i className="bi bi-check-lg"></i>
-              <span>Lorem ipsum dolor sit.</span>
+              <span>All Basic Features Included</span>
             </div>
             <div className="list">
               <i className="bi bi-check-lg"></i>
-              <span>Lorem ipsum dolor sit.</span>
+              <span>Advanced Analytics Integration</span>
             </div>
             <div className="list">
               <i className="bi bi-check-lg"></i>
-              <span>Lorem ipsum dolor sit.</span>
+              <span>Priority Support</span>
             </div>
             <div className="list">
               <i className="bi bi-check-lg"></i>
-              <span>Lorem ipsum dolor sit.</span>
+              <span>Custom Feature Development</span>
             </div>
             <div className="list">
               <i className="bi bi-check-lg"></i>
-              <span>Lorem ipsum dolor sit.</span>
+              <span>Weekly Strategy Calls</span>
             </div>
           </div>
           <button className="dark-btn">Learn More</button>
@@ -93,29 +90,28 @@ export default function ServicesPage() {
             <div className="time">/month</div>
           </div>
           <div className="info">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda
-            possimus asperiores eos distinctio.
+            Complete enterprise solution with premium features, dedicated support, and customized development services.
           </div>
           <div className="features">
             <div className="list">
               <i className="bi bi-check-lg"></i>
-              <span>Lorem ipsum dolor sit.</span>
+              <span>All Plus Features Included</span>
             </div>
             <div className="list">
               <i className="bi bi-check-lg"></i>
-              <span>Lorem ipsum dolor sit.</span>
+              <span>24/7 Premium Support</span>
             </div>
             <div className="list">
               <i className="bi bi-check-lg"></i>
-              <span>Lorem ipsum dolor sit.</span>
+              <span>Custom API Integration</span>
             </div>
             <div className="list">
               <i className="bi bi-check-lg"></i>
-              <span>Lorem ipsum dolor sit.</span>
+              <span>Dedicated Project Manager</span>
             </div>
             <div className="list">
               <i className="bi bi-check-lg"></i>
-              <span>Lorem ipsum dolor sit.</span>
+              <span>Advanced Security Features</span>
             </div>
           </div>
           <button className="dark-btn">Learn More</button>

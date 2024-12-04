@@ -7,8 +7,8 @@ export default function Portfolio(){
     <div className="sectionOne container">
         <div className="sectionOne__content text-center flex">
           <div className="sectionOne__content--label label text-green">portfolio</div>
-            <div className="sectionOne__content--title common-title">Lorem ipsum dolor sit amet consectetur.</div>
-          <div className="sectionOne__content--text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, porro?
+            <div className="sectionOne__content--title common-title">Our Featured Projects and Success Stories</div>
+          <div className="sectionOne__content--text">Explore our diverse collection of successful digital solutions and transformative projects
           </div>
         </div>
         <div className="sectionOne__images">
