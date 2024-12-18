@@ -1,6 +1,6 @@
 import "@/styles/homepage.css";
 import Image from "next/image";
-import "@/styles/designSystem.css"
+import "@/styles/designSystem.css";
 
 export default function HomePage() {
     return (
@@ -15,10 +15,10 @@ export default function HomePage() {
                             Innovative Solutions for Digital Transformation
                         </div>
                         <div className="sectionOne__left--text">
-                            We specialize in delivering cutting-edge technology solutions 
-                            that help businesses thrive in the digital age. Our expert 
-                            team combines innovation with practical expertise to transform 
-                            your ideas into reality.
+                            We specialize in delivering cutting-edge technology solutions that
+                            help businesses thrive in the digital age. Our expert team
+                            combines innovation with practical expertise to transform your
+                            ideas into reality.
                         </div>
                         <button className="sectionOne__left--btn white-btn">Explore</button>
                     </div>
@@ -26,7 +26,8 @@ export default function HomePage() {
                         className="sectionOne__right responsive-image"
                         src="/images/Home/image-1.svg"
                         alt=""
-                        height={1000} width={1000}
+                        height={1000}
+                        width={1000}
                     />
                 </div>
             </div>
@@ -40,39 +41,44 @@ export default function HomePage() {
                         Trusted by Industry Leaders Worldwide
                     </div>
                     <div className="sectionTwo__content--text">
-                        We collaborate with leading technology companies to deliver 
-                        the best solutions for our clients.
+                        We collaborate with leading technology companies to deliver the best
+                        solutions for our clients.
                     </div>
                 </div>
                 <div className="sectionTwo__logo">
                     <Image
                         src="/images/Companies/Google.svg"
                         alt=""
-                        height={50} width={100}
+                        height={50}
+                        width={100}
                         className="sectionTwo__logo--1 responsive-image-2"
                     />
                     <Image
                         src="/images/Companies/Microsoft.svg"
                         alt=""
-                        height={46} width={100}
+                        height={46}
+                        width={100}
                         className="sectionTwo__logo--2 responsive-image-2"
                     />
                     <Image
                         src="/images/Companies/Airbnb.svg"
                         alt=""
-                        height={50} width={100}
+                        height={50}
+                        width={100}
                         className="sectionTwo__logo--3 responsive-image-2"
                     />
                     <Image
                         src="/images/Companies/Facebook.svg"
                         alt=""
-                        height={38} width={100}
+                        height={38}
+                        width={100}
                         className="sectionTwo__logo--4 responsive-image-2"
                     />
                     <Image
                         src="/images/Companies/Spotify.svg"
                         alt=""
-                        height={50} width={100}
+                        height={50}
+                        width={100}
                         className="sectionTwo__logo--5 responsive-image-2"
                     />
                 </div>
@@ -84,17 +90,18 @@ export default function HomePage() {
                     className="sectionThree__left responsive-image"
                     src="/images/Home/image-2.svg"
                     alt=""
-                    height={100} width={1000}
+                    height={100}
+                    width={1000}
                 />
                 <div className="sectionThree__right flex">
                     <div className="sectionThree__right--title common-title">
                         Custom Software Development That Drives Growth
                     </div>
                     <div className="sectionThree__right--text">
-                        Our development team creates tailored software solutions that 
-                        align with your business objectives. From web applications to 
-                        enterprise systems, we deliver scalable and secure solutions 
-                        that help you stay ahead of the competition.
+                        Our development team creates tailored software solutions that align
+                        with your business objectives. From web applications to enterprise
+                        systems, we deliver scalable and secure solutions that help you stay
+                        ahead of the competition.
                     </div>
                     <button className="sectionThree__right--btn dark-btn">Explore</button>
                 </div>
@@ -105,17 +112,18 @@ export default function HomePage() {
                         Digital Strategy and Consulting Services
                     </div>
                     <div className="sectionFour__left--text">
-                        Transform your business with our strategic consulting services. 
-                        We help you navigate digital transformation, optimize processes, 
-                        and implement technology solutions that drive efficiency and 
-                        growth in your organization.
+                        Transform your business with our strategic consulting services. We
+                        help you navigate digital transformation, optimize processes, and
+                        implement technology solutions that drive efficiency and growth in
+                        your organization.
                     </div>
                     <button className="sectionFour__left--btn dark-btn">Explore</button>
                 </div>
                 <Image
                     src="/images/Home/image-3.svg"
                     alt=""
-                    height={100} width={1000}
+                    height={100}
+                    width={1000}
                     className="sectionFour__right responsive-image"
                 />
             </div>
@@ -129,7 +137,7 @@ export default function HomePage() {
                         Our Leadership Team
                     </div>
                     <div className="sectionFive__content--text">
-                        Meet the experienced professionals who guide our company's 
+                        Meet the experienced professionals who guide our company&apos;s
                         vision and drive innovation.
                     </div>
                 </div>
@@ -139,7 +147,8 @@ export default function HomePage() {
                             className="responsive-image"
                             src="/images/team/Peg_Legge.svg"
                             alt=""
-                            height={100} width={1000}
+                            height={100}
+                            width={1000}
                         />
                         <div className="name">Peg Legge</div>
                         <div className="position">CEO</div>
@@ -149,7 +158,8 @@ export default function HomePage() {
                             className="responsive-image"
                             src="/images/team/Richard.svg"
                             alt=""
-                            height={100} width={1000}
+                            height={100}
+                            width={1000}
                         />
                         <div className="name">Richard Guerra</div>
                         <div className="position">CTO</div>
@@ -159,7 +169,8 @@ export default function HomePage() {
                             className="responsive-image"
                             src="/images/team/Alexandra.svg"
                             alt=""
-                            height={100} width={1000}
+                            height={100}
+                            width={1000}
                         />
                         <div className="name">Alexandra Stolz</div>
                         <div className="position">Designer</div>
@@ -169,7 +180,8 @@ export default function HomePage() {
                             className="responsive-image"
                             src="/images/team/Janet.svg"
                             alt=""
-                            height={100} width={1000}
+                            height={100}
+                            width={1000}
                         />
                         <div className="name">Janet Bray</div>
                         <div className="position">developer</div>
